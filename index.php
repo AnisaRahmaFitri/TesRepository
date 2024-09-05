@@ -5,7 +5,7 @@
     <h1> first PHP page</h1>
 
     <?php
-    echo "Test Repository";
+    echo "Test coba coba";
     ?>
   </body>
 </html>
